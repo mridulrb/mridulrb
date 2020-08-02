@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <h2 align="center"> I am Mridul Bhandari 💻 </h2>
 <p align="center"><a href="https://www.medium.com/mridulrb">@mridulrb</a></p>
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=mridulrb alt=mridulrb/> </p>
+
 ### Bio 👨‍🦱
 ```
 I'm a Cloud Developer Advocate at IBM 💻 
@@ -31,6 +33,11 @@ I focus on Data Science & Microservices 🌈
 📚 | Post Blogs on Medium
 💬 | Mail me if you need help
 ```
+
+### Blogs 📚
+- [Building a COVID-19 Virtual Banking Assistant](https://medium.com/ibm-watson/building-a-covid-19-virtual-banking-assistant-cb4252dc1bcc)
+- [Build an app using the Disaster Resiliency Starter Kit](https://medium.com/callforcode/on-july-14th-2020-cloud-developer-advocate-mridul-bhandari-from-ibm-developer-and-senior-2a8d2f67c1de)
+- [Tovit- a COVID-19 toolkit](https://medium.com/ibm-watson/tovit-a-covid-19-toolkit-aed5c2fc68d1)
 
 ### Github Stats 💯
 <img src="https://github-readme-stats.vercel.app/api/?username=mridulrb" alt="git stats">
