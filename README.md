@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 <a href=https://codepen.io/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="mridulrb" height="20" width="20" /></a>
 <a href=https://dev.to/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="mridulrb" height="20" width="20" /></a>
 <a href=https://www.facebook.com/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="mridulrb" height="20" width="20" /></a>
+<a href=https://www.behance.net/mridulbhandari target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg alt="mridulrb" height="20" width="20" /></a>
+<a href=https://dribbble.com/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg alt="mridulrb" height="20" width="20" /></a>
 </p>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=mridulrb alt=mridulrb/> </p>
