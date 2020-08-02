@@ -43,7 +43,7 @@ I focus on Data Science & Microservices 🌈
 
 💻 | Publish Code Content
 📚 | Post Blogs on Medium
-💬 | Mail me if you need help
+💬 | Mail me at mridulrbhandari@gmail.com if you need help
 ```
 
 ### Blogs 📚
@@ -55,5 +55,5 @@ I focus on Data Science & Microservices 🌈
 <img src="https://github-readme-stats.vercel.app/api/?username=mridulrb" alt="git stats">
 
 ### Links ⚡
-<a href="https://mridulbhandari.com" target="_blank"> Website </a> | <a href="https://www.instagram.com/mridulrb"> Instagram </a> | <a href="https://www.twitter.com/mridulrb"> Twitter </a> | <a href="https://www.linkedin.com/in/mridul-bhandari"> LinkedIn </a> | <a href="https://www.medium.com/@mridulrb"> Medium </a> | <a href="https://stackoverflow.com/story/mridulrb"> stackoverflow </a>
+<a href="https://mridulbhandari.wtf" target="_blank"> Website </a> | <a href="https://www.instagram.com/mridulrb"> Instagram </a> | <a href="https://www.twitter.com/mridulrb"> Twitter </a> | <a href="https://www.linkedin.com/in/mridul-bhandari"> LinkedIn </a> | <a href="https://www.medium.com/@mridulrb"> Medium </a> | <a href="https://stackoverflow.com/story/mridulrb"> stackoverflow </a>
 
