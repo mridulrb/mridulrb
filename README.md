@@ -43,7 +43,7 @@ I focus on Data Science & Microservices 🌈
 
 💻 | Publish Code Content
 📚 | Post Blogs on Medium
-💬 | Mail me at mridulrbhandari@gmail.com if you need help
+💬 | Mail me at hello@mridulbhandari.com if you need help
 ```
 
 ### Blogs 📚
