@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/mridulrb/mridulrb/master/logo%20-%20400.png" width="100px" height="100px" />
 </p>
 
-<h2 align="center"> Hi, I am Mridul Bhandari 💻 </h2>
+<h2 align="center"> I am Mridul Bhandari 💻 </h2>
 <p align="center"><a href="https://www.medium.com/mridulrb">@mridulrb</a></p>
 
 ### Bio 👨‍🦱
