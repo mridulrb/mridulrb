@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 I'm a Cloud Developer Advocate at IBM 💻 
 I focus on Data Science & Microservices 🌈
 
-💻 | Code Content
+💻 | Publish Code Content
 📚 | Post Blogs on Medium
 💬 | Mail me if you need help
 ```
