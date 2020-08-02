@@ -21,10 +21,15 @@ Here are some ideas to get you started:
 
 <h2 align="center"> I am Mridul Bhandari 💻 </h2>
 <p align="center">
-<a href=https://codepen.io/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="mridulrb" height="20" width="20" /></a>
-<a href=https://dev.to/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="mridulrb" height="20" width="20" /></a>
+<a href=https://mridulbhandari.com target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg alt="mridulrb" height="20" width="20" /></a>
 <a href=https://twitter.com/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="mridulrb" height="20" width="20" /></a>
 <a href=https://linkedin.com/in/mridul-bhandari target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="mridul-bhandari" height="20" width="20" /></a>
+<a href=https://www.medium.com/@mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg alt="mridulrb" height="20" width="20" /></a>
+<a href=https://stackoverflow.com/story/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg alt="mridulrb" height="20" width="20" /></a>
+<a href=https://www.instagram.com/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="mridulrb" height="20" width="20" /></a>
+<a href=https://codepen.io/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="mridulrb" height="20" width="20" /></a>
+<a href=https://dev.to/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="mridulrb" height="20" width="20" /></a>
+<a href=https://www.facebook.com/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="mridulrb" height="20" width="20" /></a>
 </p>
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=mridulrb alt=mridulrb/> </p>
