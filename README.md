@@ -49,8 +49,8 @@ I focus on Data Science & Microservices 🌈
 ### Blogs 📚
 - [Building a COVID-19 Virtual Banking Assistant](https://medium.com/ibm-watson/building-a-covid-19-virtual-banking-assistant-cb4252dc1bcc)
 - [Build an app using the Disaster Resiliency Starter Kit](https://medium.com/callforcode/on-july-14th-2020-cloud-developer-advocate-mridul-bhandari-from-ibm-developer-and-senior-2a8d2f67c1de)
-- [Tovit - a COVID-19 toolkit](https://medium.com/ibm-watson/tovit-a-covid-19-toolkit-aed5c2fc68d1)
-- [Tovit - Your go-to COVID-19 toolkit](https://medium.com/callforcode/tovit-ae4554bfe92f)
+- [Tovit - a COVID-19 toolkit - IBM Watson](https://medium.com/ibm-watson/tovit-a-covid-19-toolkit-aed5c2fc68d1)
+- [Tovit - Your go-to COVID-19 toolkit - CFC Daily](https://medium.com/callforcode/tovit-ae4554bfe92f)
 
 ### Github Stats 💯
 <img src="https://github-readme-stats.vercel.app/api/?username=mridulrb" alt="git stats">
