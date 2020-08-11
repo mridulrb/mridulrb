@@ -52,6 +52,12 @@ I focus on Data Science & Microservices 🌈
 - [Tovit - a COVID-19 toolkit - IBM Watson](https://medium.com/ibm-watson/tovit-a-covid-19-toolkit-aed5c2fc68d1)
 - [Tovit - Your go-to COVID-19 toolkit - CFC Daily](https://medium.com/callforcode/tovit-ae4554bfe92f)
 
+### Github Stats 💯
+<img src="https://github-readme-stats.vercel.app/api?username=mridulrb&count_private=true&show_icons=true&theme=highcontrast" alt="git stats">
+
+### Top Languages 🔠
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulrb&theme=dracula" alt="git stats">
+
 ### GitHub Pins
 
 <a href="https://github.com/mridulrb/Tovit">
@@ -88,12 +94,4 @@ I focus on Data Science & Microservices 🌈
 <br/>
 
 
-### Github Stats 💯
-<img src="https://github-readme-stats.vercel.app/api?username=mridulrb&count_private=true&show_icons=true&theme=highcontrast" alt="git stats">
-
-### Top Languages 🔠
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulrb&theme=dracula" alt="git stats">
-
-### Links ⚡
-<a href="https://mridulbhandari.wtf" target="_blank"> Website </a> | <a href="https://www.instagram.com/mridulrb"> Instagram </a> | <a href="https://www.twitter.com/mridulrb"> Twitter </a> | <a href="https://www.linkedin.com/in/mridul-bhandari"> LinkedIn </a> | <a href="https://www.medium.com/@mridulrb"> Medium </a> | <a href="https://stackoverflow.com/story/mridulrb"> stackoverflow </a>
 
