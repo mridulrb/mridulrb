@@ -52,7 +52,7 @@ I focus on Data Science & Microservices 🌈
 - [Tovit- a COVID-19 toolkit](https://medium.com/ibm-watson/tovit-a-covid-19-toolkit-aed5c2fc68d1)
 
 ### Github Stats 💯
-<img src="https://github-readme-stats.vercel.app/api/?username=mridulrb" alt="git stats">
+<img src="https://github-readme-stats.vercel.app/api?username=mridulrb&count_private=true&show_icons=true" alt="git stats">
 
 ### Links ⚡
 <a href="https://mridulbhandari.wtf" target="_blank"> Website </a> | <a href="https://www.instagram.com/mridulrb"> Instagram </a> | <a href="https://www.twitter.com/mridulrb"> Twitter </a> | <a href="https://www.linkedin.com/in/mridul-bhandari"> LinkedIn </a> | <a href="https://www.medium.com/@mridulrb"> Medium </a> | <a href="https://stackoverflow.com/story/mridulrb"> stackoverflow </a>
