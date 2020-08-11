@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 <a href=https://dribbble.com/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg alt="mridulrb" height="20" width="20" /></a>
 </p>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=mridulrb alt=mridulrb/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=mridulrb&style=plastic&color=orange alt=mridulrb/> </p>
 
-### Bio 👨‍🦱
+### Bio 👨🏻
 ```
 I'm a Cloud Developer Advocate at IBM 💻 
 I focus on Data Science & Microservices 🌈
