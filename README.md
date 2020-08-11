@@ -59,7 +59,7 @@ I focus on Data Science & Microservices 🌈
 </a>
 
 <a href="https://github.com/mridulrb/Bank-Virtual-Assistant">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Bank-Virtual-Assistant&show_owner=True&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Bank-Virtual-Assistant&show_owner=True&theme=radical" />
 </a>
 
 <a href="https://github.com/mridulrb/Solution-Starter-Kit-Disasters-2020">
@@ -67,7 +67,7 @@ I focus on Data Science & Microservices 🌈
 </a>
 
 <a href="https://github.com/mridulrb/node-red-contrib-twc-covid19-tracker">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=node-red-contrib-twc-covid19-tracker&show_owner=True&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=node-red-contrib-twc-covid19-tracker&show_owner=True&theme=radical" />
 </a>
 
 <a href="https://github.com/mridulrb/AR_Treasure_Hunt_using_A-Frame_and_AR.js">
@@ -75,7 +75,7 @@ I focus on Data Science & Microservices 🌈
 </a>
 
 <a href="https://github.com/mridulrb/Neural-Network-in-R">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Neural-Network-in-R&show_owner=True&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Neural-Network-in-R&show_owner=True&theme=radical" />
 </a>
 
 <a href="https://github.com/mridulrb/Spotify-Playlist-ReactNative-GraphQL">
@@ -83,7 +83,7 @@ I focus on Data Science & Microservices 🌈
 </a>
 
 <a href="https://github.com/mridulrb/Khibra">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Khibra&show_owner=True&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Khibra&show_owner=True&theme=radical" />
 </a>
 
 ### Github Stats 💯
