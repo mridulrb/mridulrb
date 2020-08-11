@@ -69,27 +69,27 @@ I focus on Data Science & Microservices 🌈
 </a>
 
 <a href="https://github.com/mridulrb/Solution-Starter-Kit-Disasters-2020">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Solution-Starter-Kit-Disasters-2020&show_owner=True&theme=cobalt" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Solution-Starter-Kit-Disasters-2020&show_owner=True&theme=merko" />
 </a>
 
 <a href="https://github.com/mridulrb/node-red-contrib-twc-covid19-tracker">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=node-red-contrib-twc-covid19-tracker&show_owner=True&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=node-red-contrib-twc-covid19-tracker&show_owner=True&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/mridulrb/AR_Treasure_Hunt_using_A-Frame_and_AR.js">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=AR_Treasure_Hunt_using_A-Frame_and_AR.js&show_owner=True&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=AR_Treasure_Hunt_using_A-Frame_and_AR.js&show_owner=True&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/mridulrb/Neural-Network-in-R">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Neural-Network-in-R&show_owner=True&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Neural-Network-in-R&show_owner=True&theme=onedark" />
 </a>
 
 <a href="https://github.com/mridulrb/Spotify-Playlist-ReactNative-GraphQL">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Spotify-Playlist-ReactNative-GraphQL&show_owner=True&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Spotify-Playlist-ReactNative-GraphQL&show_owner=True&theme=cobalt" />
 </a>
 
 <a href="https://github.com/mridulrb/Khibra">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Khibra&show_owner=True&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Khibra&show_owner=True&theme=synthwave" />
 </a>
 
 
