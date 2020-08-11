@@ -55,7 +55,7 @@ I focus on Data Science & Microservices 🌈
 ### Github Stats 💯
 <img src="https://github-readme-stats.vercel.app/api?username=mridulrb&count_private=true&show_icons=true&theme=dark" alt="git stats">
 
-### Top Languages
+### Top Languages 🔠
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulrb" alt="git stats">
 
 ### Links ⚡
