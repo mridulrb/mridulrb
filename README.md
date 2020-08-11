@@ -53,10 +53,10 @@ I focus on Data Science & Microservices 🌈
 - [Tovit - Your go-to COVID-19 toolkit - CFC Daily](https://medium.com/callforcode/tovit-ae4554bfe92f)
 
 ### Github Stats 💯
-<img src="https://github-readme-stats.vercel.app/api?username=mridulrb&count_private=true&show_icons=true&theme=gruvbox" alt="git stats">
+<img src="https://github-readme-stats.vercel.app/api?username=mridulrb&count_private=true&show_icons=true&theme=tokyonight" alt="git stats">
 
 ### Top Languages 🔠
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulrb&theme=gruvbox" alt="git stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulrb&theme=tokyonight" alt="git stats">
 
 ### Links ⚡
 <a href="https://mridulbhandari.wtf" target="_blank"> Website </a> | <a href="https://www.instagram.com/mridulrb"> Instagram </a> | <a href="https://www.twitter.com/mridulrb"> Twitter </a> | <a href="https://www.linkedin.com/in/mridul-bhandari"> LinkedIn </a> | <a href="https://www.medium.com/@mridulrb"> Medium </a> | <a href="https://stackoverflow.com/story/mridulrb"> stackoverflow </a>
