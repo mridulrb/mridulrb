@@ -53,9 +53,19 @@ I focus on Data Science & Microservices 🌈
 - [Tovit - Your go-to COVID-19 toolkit - CFC Daily](https://medium.com/callforcode/tovit-ae4554bfe92f)
 
 ### GitHub Pins
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Tovit&show_owner=True&theme=dark)](https://github.com/mridulrb/Tovit)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Bank-Virtual-Assistant&show_owner=True&theme=radical)](https://github.com/mridulrb/Bank-Virtual-Assistant)
+<a href="https://github.com/mridulrb/Tovit">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Tovit&show_owner=True&theme=dark" />
+</a>
+
+<a href="https://github.com/mridulrb/Bank-Virtual-Assistant">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Bank-Virtual-Assistant&show_owner=True&theme=radical" />
+</a>
+
+
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Tovit&show_owner=True&theme=dark)](https://github.com/mridulrb/Tovit)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Bank-Virtual-Assistant&show_owner=True&theme=radical)](https://github.com/mridulrb/Bank-Virtual-Assistant) -->
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Spotify-Playlist-ReactNative-GraphQL&show_owner=True&theme=cobalt)](https://github.com/mridulrb/Solution-Starter-Kit-Disasters-2020)
 
