@@ -58,15 +58,18 @@ I focus on Data Science & Microservices 🌈
 ### Top Languages 🔠
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulrb&theme=dracula" alt="git stats">
 
+### Open Source Contributions 📖
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Solution-Starter-Kit-Disasters-2020&show_owner=True&theme=cobalt)](https://github.com/mridulrb/Solution-Starter-Kit-Disasters-2020)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=node-red-contrib-twc-covid19-tracker&show_owner=True&theme=synthwave)](https://github.com/mridulrb/node-red-contrib-twc-covid19-tracker)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=watson-stock-market-predictor&show_owner=True&theme=gotham)](https://github.com/mridulrb/watson-stock-market-predictor)
+
 ### GitHub Pins 📌
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Tovit&show_owner=True&theme=dark)](https://github.com/mridulrb/Tovit)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Bank-Virtual-Assistant&show_owner=True&theme=radical)](https://github.com/mridulrb/Bank-Virtual-Assistant)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Solution-Starter-Kit-Disasters-2020&show_owner=True&theme=cobalt)](https://github.com/mridulrb/Solution-Starter-Kit-Disasters-2020)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=node-red-contrib-twc-covid19-tracker&show_owner=True&theme=synthwave)](https://github.com/mridulrb/node-red-contrib-twc-covid19-tracker)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=AR_Treasure_Hunt_using_A-Frame_and_AR.js&show_owner=True&theme=merko)](https://github.com/mridulrb/AR_Treasure_Hunt_using_A-Frame_and_AR.js)
 
@@ -75,6 +78,9 @@ I focus on Data Science & Microservices 🌈
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Khibra&show_owner=True&theme=tokyonight)](https://github.com/mridulrb/Khibra)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Spotify-Playlist-ReactNative-GraphQL&show_owner=True&theme=onedark)](https://github.com/mridulrb/Spotify-Playlist-ReactNative-GraphQL)
+
+
+
 <!-- <a href="https://github.com/mridulrb/Tovit">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Tovit&show_owner=True&theme=dark" width="425px" height="120px"/>
 </a>
