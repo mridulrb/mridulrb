@@ -52,6 +52,7 @@ I focus on Data Science & Microservices 🌈
 <!--
 - [Tovit - a COVID-19 toolkit - IBM Watson](https://medium.com/ibm-watson/tovit-a-covid-19-toolkit-aed5c2fc68d1)
 - [Tovit - Your go-to COVID-19 toolkit - CFC Daily](https://medium.com/callforcode/tovit-ae4554bfe92f)
+--!>
 
 ### Github Stats 💯
 <img src="https://github-readme-stats.vercel.app/api?username=mridulrb&count_private=true&show_icons=true&theme=highcontrast" alt="git stats">
@@ -69,6 +70,7 @@ I focus on Data Science & Microservices 🌈
 ### GitHub Pins 📌
 <!--
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Tovit&show_owner=True&theme=dark)](https://github.com/mridulrb/Tovit)
+--!>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Bank-Virtual-Assistant&show_owner=True&theme=radical)](https://github.com/mridulrb/Bank-Virtual-Assistant)
 
