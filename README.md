@@ -87,6 +87,7 @@ I focus on Data Science & Microservices 🌈
 <!-- <a href="https://github.com/mridulrb/Tovit">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Tovit&show_owner=True&theme=dark" width="425px" height="120px"/>
 </a>
+--!>
 
 <a href="https://github.com/mridulrb/Bank-Virtual-Assistant">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Bank-Virtual-Assistant&show_owner=True&theme=radical" width="425px" height="120px" />
@@ -114,7 +115,7 @@ I focus on Data Science & Microservices 🌈
 
 <a href="https://github.com/mridulrb/Khibra">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Khibra&show_owner=True&theme=synthwave" width="425px" height="150px" />
-</a> -->
+</a> 
 
 
 
