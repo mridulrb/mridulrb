@@ -49,10 +49,9 @@ I focus on Data Science & Microservices 🌈
 ### Blogs 📚
 - [Building a COVID-19 Virtual Banking Assistant](https://medium.com/ibm-watson/building-a-covid-19-virtual-banking-assistant-cb4252dc1bcc)
 - [Build an app using the Disaster Resiliency Starter Kit](https://medium.com/callforcode/on-july-14th-2020-cloud-developer-advocate-mridul-bhandari-from-ibm-developer-and-senior-2a8d2f67c1de)
-<!--
 - [Tovit - a COVID-19 toolkit - IBM Watson](https://medium.com/ibm-watson/tovit-a-covid-19-toolkit-aed5c2fc68d1)
 - [Tovit - Your go-to COVID-19 toolkit - CFC Daily](https://medium.com/callforcode/tovit-ae4554bfe92f)
---!>
+
 
 ### Github Stats 💯
 <img src="https://github-readme-stats.vercel.app/api?username=mridulrb&count_private=true&show_icons=true&theme=highcontrast" alt="git stats">
@@ -68,9 +67,8 @@ I focus on Data Science & Microservices 🌈
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=watson-stock-market-predictor&show_owner=True&theme=gotham)](https://github.com/mridulrb/watson-stock-market-predictor)
 
 ### GitHub Pins 📌
-<!--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Tovit&show_owner=True&theme=dark)](https://github.com/mridulrb/Tovit)
---!>
+
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Tovit&show_owner=True&theme=dark)](https://github.com/mridulrb/Tovit) -->
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Bank-Virtual-Assistant&show_owner=True&theme=radical)](https://github.com/mridulrb/Bank-Virtual-Assistant)
 
@@ -87,7 +85,7 @@ I focus on Data Science & Microservices 🌈
 <!-- <a href="https://github.com/mridulrb/Tovit">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Tovit&show_owner=True&theme=dark" width="425px" height="120px"/>
 </a>
---!>
+
 
 <a href="https://github.com/mridulrb/Bank-Virtual-Assistant">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Bank-Virtual-Assistant&show_owner=True&theme=radical" width="425px" height="120px" />
@@ -115,7 +113,7 @@ I focus on Data Science & Microservices 🌈
 
 <a href="https://github.com/mridulrb/Khibra">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Khibra&show_owner=True&theme=synthwave" width="425px" height="150px" />
-</a> 
+</a>  -->
 
 
 
