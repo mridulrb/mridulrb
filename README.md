@@ -66,9 +66,9 @@ I focus on Data Science & Microservices 🌈
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=watson-stock-market-predictor&show_owner=True&theme=gotham)](https://github.com/mridulrb/watson-stock-market-predictor)
 
-### GitHub Pins 📌
+<!-- ### GitHub Pins 📌
 
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Tovit&show_owner=True&theme=dark)](https://github.com/mridulrb/Tovit) -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Tovit&show_owner=True&theme=dark)](https://github.com/mridulrb/Tovit)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Bank-Virtual-Assistant&show_owner=True&theme=radical)](https://github.com/mridulrb/Bank-Virtual-Assistant)
 
@@ -78,7 +78,7 @@ I focus on Data Science & Microservices 🌈
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Khibra&show_owner=True&theme=tokyonight)](https://github.com/mridulrb/Khibra)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Spotify-Playlist-ReactNative-GraphQL&show_owner=True&theme=onedark)](https://github.com/mridulrb/Spotify-Playlist-ReactNative-GraphQL)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Spotify-Playlist-ReactNative-GraphQL&show_owner=True&theme=onedark)](https://github.com/mridulrb/Spotify-Playlist-ReactNative-GraphQL) -->
 
 
 
