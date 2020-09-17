@@ -48,6 +48,7 @@ I focus on Data Science & Microservices 🌈
 ```
 
 ### Blogs 📚
+- [Predict Loan Eligibility using Machine Learning Models](https://towardsdatascience.com/predict-loan-eligibility-using-machine-learning-models-7a14ef904057)
 - [Building a COVID-19 Virtual Banking Assistant](https://medium.com/ibm-watson/building-a-covid-19-virtual-banking-assistant-cb4252dc1bcc)
 - [Build an app using the Disaster Resiliency Starter Kit](https://medium.com/callforcode/on-july-14th-2020-cloud-developer-advocate-mridul-bhandari-from-ibm-developer-and-senior-2a8d2f67c1de)
 - [Tovit - a COVID-19 toolkit - IBM Watson](https://medium.com/ibm-watson/tovit-a-covid-19-toolkit-aed5c2fc68d1)
