@@ -48,6 +48,7 @@ I focus on Data Science & Microservices 🌈
 ```
 
 ### Blogs 📚
+- [Call for Code® Spot Challenge Beirut: Introduction to IBM Cloud Services](https://medium.com/callforcode/call-for-code-spot-challenge-beirut-introduction-to-ibm-cloud-services-part-2-767fc322d11a)
 - [Predict Loan Eligibility using Machine Learning Models - towards data science](https://towardsdatascience.com/predict-loan-eligibility-using-machine-learning-models-7a14ef904057)
 - [Building a COVID-19 Virtual Banking Assistant](https://medium.com/ibm-watson/building-a-covid-19-virtual-banking-assistant-cb4252dc1bcc)
 - [Build an app using the Disaster Resiliency Starter Kit](https://medium.com/callforcode/on-july-14th-2020-cloud-developer-advocate-mridul-bhandari-from-ibm-developer-and-senior-2a8d2f67c1de)
