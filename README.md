@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/mridulrb/mridulrb/master/wave.gif" width="30px"> 
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=mridulrb&style=plastic&color=orange alt=mridulrb/> </p>
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=mridulrb&style=plastic&color=orange alt=mridulrb/> </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mridulrb/mridulrb/master/logo%20-%20400.png" width="100px" height="100px" />
@@ -65,7 +65,7 @@ I focus on Data Science & Microservices 🌈
 - [Tovit - Your go-to COVID-19 toolkit - CFC Daily](https://medium.com/callforcode/tovit-ae4554bfe92f) -->
 
 ### Technologies & Tools 🔧
-![](https://img.shields.io/badge/Cloud-IBM-Cloud--informational?style=flat&logo=IBM&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IBM_Cloud-informational?style=flat-square&logo=IBM&logoColor=white&color=054ADA)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
