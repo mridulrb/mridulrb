@@ -49,11 +49,10 @@ Here are some ideas to get you started:
 I'm a Cloud Developer Advocate at IBM 👁🐝M  
 I focus on Data Science & Microservices 💻
 
+💻 | Work on Code Content
+📚 | Post Blogs on Medium, Hashnode, freeCodeCamp.org & Hacker Noon
 💬 | Mail me at hello@mridulbhandari.com or Mridul.Bhandari@ibm.com if you need help
 ```
-
-<!-- 💻 | Publish Code Content
-📚 | Post Blogs on Medium -->
 
 ### Blogs 📚
 
