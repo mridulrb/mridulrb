@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://raw.githubusercontent.com/mridulrb/mridulrb/master/Header.jpeg "Header")](https://mridulbhandari.com/)
+[![Header](https://raw.githubusercontent.com/mridulrb/mridulrb/master/media/Header.jpeg "Header")](https://mridulbhandari.com/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/mridulrb/mridulrb/master/wave.gif" width="30px"> 
+# Hello, folks! <img src="https://raw.githubusercontent.com/mridulrb/mridulrb/master/media/wave.gif" width="30px"> 
 
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=mridulrb&style=plastic&color=orange alt=mridulrb/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=mridulrb&style=plastic&color=orange alt=mridulrb/> </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mridulrb/mridulrb/master/logo%20-%20400.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/mridulrb/mridulrb/master/media/logo.png" width="100px" height="100px" />
 </p>
 
-<h2 align="center"> I am Mridul Bhandari 💻 </h2>
+<h2 align="center"> <img src="https://raw.githubusercontent.com/mridulrb/mridulrb/master/media/signbot.gif"/> </h2>
 <p align="center">
 <a href=https://mridulbhandari.com target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg alt="mridulrb" height="20" width="20" /></a>
 <a href=https://www.kaggle.com/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg alt="mridulrb" height="20" width="20" /></a>
@@ -46,10 +46,10 @@ Here are some ideas to get you started:
 
 ### Bio 👨🏻
 ```
-I'm a Cloud Developer Advocate at IBM 💻 
-I focus on Data Science & Microservices 🌈
+I'm a Cloud Developer Advocate at IBM 👁🐝M  
+I focus on Data Science & Microservices 💻
 
-💬 | Mail me at hello@mridulbhandari.com or Mridul.Bhandari@im.com if you need help
+💬 | Mail me at hello@mridulbhandari.com or Mridul.Bhandari@ibm.com if you need help
 ```
 
 <!-- 💻 | Publish Code Content
@@ -66,22 +66,30 @@ I focus on Data Science & Microservices 🌈
 
 ### Technologies & Tools 🔧
 ![](https://img.shields.io/badge/IBM_Cloud-informational?style=flat-square&logo=IBM&logoColor=white&color=054ADA)
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/MacOS-informational?style=flat&logo=apple&logoColor=white&color=ffffff)
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=f86f14)
+![](https://img.shields.io/badge/VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=286ac6)
+![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=000000)
+![](https://img.shields.io/badge/C-informational?style=flat-square&logo=C&logoColor=white&color=A8B9CC)
+![](https://img.shields.io/badge/Java-informational?style=flat-square&logo=Java&logoColor=white&color=007396)
+![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=Python&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/HTML/CSS/HTML5-informational?style=flat-square&logo=html5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/NodeJS-informational?style=flat-square&logo=npm&logoColor=white&color=339933)
+![](https://img.shields.io/badge/ReactJS-informational?style=flat-square&logo=React&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/ReactNative-informational?style=flat-square&logo=React&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/R/RStudio-informational?style=flat-square&logo=R&logoColor=white&color=276DC3)
+![](https://img.shields.io/badge/Bash_Scripting-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=4EAA25)
+![](https://img.shields.io/badge/Red_Hat_OpenShift-informational?style=flat-square&logo=red-hat-open-shift&logoColor=white&color=EE0000)
+![](https://img.shields.io/badge/Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white&color=326CE5)
+![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)
+
 
 
 
 ### Github Stats 💯
 <a href="https://github.com/mridulrb/mridulrb">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mridulrb&count_private=true&show_icons=true&theme=highcontrast" alt="git stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mridulrb&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="git stats"/>
 </a>
 
 <!-- ### Top Languages 🔠 -->
