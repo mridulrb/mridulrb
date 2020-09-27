@@ -96,7 +96,7 @@ I focus on Data Science & Microservices 💻
 <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulrb&hide=HTML,CSS&theme=dracula" alt="git stats"/>
 </a>
 
-### Projects 📖
+### Latest Projects 📖
 <a href="https://github.com/mridulrb/Tovit">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Tovit&show_owner=True&theme=cobalt"/>
 </a>
