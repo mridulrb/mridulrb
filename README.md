@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 
 ### Bio 👨🏻
 ```
-I'm a Cloud Developer Advocate at IBM 👁🐝M  
+I'm a Cloud Developer Advocate at 👁🐝M  
 I focus on Data Science & Microservices 💻
 
 💻 | Work on Code Content
-📚 | Post Blogs on Medium, Hashnode, freeCodeCamp.org & Hacker Noon
+📚 | Post Blogs on Medium, Hashnode & Hacker Noon
 💬 | Mail me at hello@mridulbhandari.com or Mridul.Bhandari@ibm.com if you need help
 ```
 
