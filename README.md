@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 
 ### Bio 👨🏻
 ```
-I'm a Cloud Developer Advocate at 👁🐝M  
-I focus on Data Science & Microservices 💻
+I'm a Developer Advocate at 👁🐝M  
+I focus on Data Science, AI & Microservices 💻
 
 💻 | Work on Code Content
 📚 | Post Blogs on Medium, Hashnode & Hacker Noon
