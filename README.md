@@ -57,7 +57,7 @@ I focus on Data Science & Microservices 💻
 ### Blogs 📚
 
 - [Predict Loan Eligibility using Machine Learning Models - towards data science](https://towardsdatascience.com/predict-loan-eligibility-using-machine-learning-models-7a14ef904057)
-- [How To Create An AR Treasure Hunt using A-Frame and AR.js - Towards AI](https://medium.com/towards-artificial-intelligence/ar-treasure-hunt-using-a-frame-and-ar-js-dcd07c33f771)
+<!-- - [How To Create An AR Treasure Hunt using A-Frame and AR.js - Towards AI](https://medium.com/towards-artificial-intelligence/ar-treasure-hunt-using-a-frame-and-ar-js-dcd07c33f771) -->
 - [How to Create A Neural Network Using R - Analytics Vidhya](https://medium.com/analytics-vidhya/neural-network-using-r-fbd9156a2ffa)
 - [Call for Code® Spot Challenge Beirut: Introduction to IBM Cloud Services - CFC Daily](https://medium.com/callforcode/call-for-code-spot-challenge-beirut-introduction-to-ibm-cloud-services-part-2-767fc322d11a)
 - [Building a COVID-19 Virtual Banking Assistant - IBM Watson](https://medium.com/ibm-watson/building-a-covid-19-virtual-banking-assistant-cb4252dc1bcc)
