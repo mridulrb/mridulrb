@@ -94,6 +94,9 @@ I focus on Data Science, AI & Microservices 💻
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mridulrb&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="git stats"/>
 </a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mridulrb)](https://git.io/streak-stats)
+
+
 <!-- ### Top Languages 🔠 -->
 <a href="https://github.com/mridulrb/mridulrb">
 <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulrb&hide=HTML,CSS&theme=dracula" alt="git stats"/>
