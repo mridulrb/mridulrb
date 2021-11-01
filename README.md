@@ -99,7 +99,8 @@ I focus on Data Science, AI & Microservices 💻
 
 <details> 
   <summary><b>GitHub Streak 💯</b></summary>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mridulrb&theme=dark)](https://git.io/streak-stats)
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mridulrb&theme=dark" alt="git stats"/>
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mridulrb&theme=dark)](https://git.io/streak-stats) -->
 </details> 
 
 <details> 
