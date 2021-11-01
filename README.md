@@ -26,8 +26,10 @@ Here are some ideas to get you started:
 <h2 align="center"> <img src="https://raw.githubusercontent.com/mridulrb/mridulrb/master/media/signbot.gif"/> </h2>
 <p align="center">
 <a href=https://mridulbhandari.com target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg alt="mridulrb" height="20" width="20" /></a>
+<a href=https://www.youtube.com/c/MridulBhandari target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg alt="mridulrb" height="20" width="20" /></a>
+<a href=https://www.twitch.tv/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg alt="mridulrb" height="20" width="20" /></a>
 <a href=https://www.kaggle.com/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg alt="mridulrb" height="20" width="20" /></a>
-<a href=https://freecodecamp.org/u/mridulrb/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg alt="mridulrb" height="20" width="20" /></a>
+<a href=https://forum.freecodecamp.org/u/mridulrb/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg alt="mridulrb" height="20" width="20" /></a>
 <a href=https://mridulrb.hashnode.dev/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg alt="mridulrb" height="20" width="20" /></a>
 <a href=https://twitter.com/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="mridulrb" height="20" width="20" /></a>
 <a href=https://linkedin.com/in/mridul-bhandari target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="mridul-bhandari" height="20" width="20" /></a>
