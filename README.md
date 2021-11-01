@@ -89,26 +89,42 @@ I focus on Data Science, AI & Microservices 💻
 
 
 
-### Github Stats 💯
-<a href="https://github.com/mridulrb/mridulrb">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mridulrb&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="git stats"/>
-</a>
+### Github Stats 📊
+<details> 
+  <summary><b>GitHub Profile Stats 📈</b></summary>
+    <a href="https://github.com/mridulrb/mridulrb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mridulrb&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="git stats"/>
+    </a>
+</details> 
 
+<details> 
+  <summary><b>GitHub Streak 💯</b></summary>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mridulrb&theme=dark)](https://git.io/streak-stats)
+</details> 
 
-
-<!-- ### Top Languages 🔠 -->
-<a href="https://github.com/mridulrb/mridulrb">
-<img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulrb&hide=HTML,CSS&theme=dracula" alt="git stats"/>
-</a>
+<details> 
+  <summary><b>Top Languages 🔠</b></summary>
+    <!-- ### Top Languages 🔠 -->
+    <a href="https://github.com/mridulrb/mridulrb">
+    <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulrb&hide=HTML,CSS&theme=dracula" alt="git stats"/>
+    </a>
+</details> 
 
 ### Latest Projects 📖
+<a href="https://github.com/mridulrb/Predict-loan-eligibility-using-IBM-Watson-Studio">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Predict-loan-eligibility-using-IBM-Watson-Studio&show_owner=True&theme=dracula"/>
+</a>
+
+<a href="https://github.com/mridulrb/Integrating-Watson-Assistant-with-Whatsapp">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Integrating-Watson-Assistant-with-Whatsapp&show_owner=True&theme=synthwave"/>
+</a>
+
 <a href="https://github.com/mridulrb/Tovit">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Tovit&show_owner=True&theme=cobalt"/>
 </a>
 
-<a href="https://github.com/mridulrb/Predict-loan-eligibility-using-IBM-Watson-Studio">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Predict-loan-eligibility-using-IBM-Watson-Studio&show_owner=True&theme=synthwave"/>
+<a href="https://github.com/mridulrb/Bank-Virtual-Assistant">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Bank-Virtual-Assistant&show_owner=True&theme=onedark"/>
 </a>
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=watson-stock-market-predictor&show_owner=True&theme=gotham)](https://github.com/mridulrb/watson-stock-market-predictor) -->
