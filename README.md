@@ -59,17 +59,19 @@ I focus on Data Science, AI & Microservices 💻
 <!-- ### Blogs 📚 -->
 <details> 
   <summary><b>Blogs 📚</b></summary>
-    - [Predict Loan Eligibility using Machine Learning Models - towards data science](https://towardsdatascience.com/predict-loan-eligibility-using-machine-learning-models-7a14ef904057) <br/>
-    - [Update your chatbot on WhatsApp with IBM Watson Assistant - IBM Developer](https://medium.com/ibm-data-ai/integrating-ibm-watson-assistant-with-whatsapp-e62dcaa803fd) <br/>
-    - [How to Create A Neural Network Using R - Analytics Vidhya](https://medium.com/analytics-vidhya/neural-network-using-r-fbd9156a2ffa) <br/>
-    - [Call for Code® Spot Challenge Beirut: Introduction to IBM Cloud Services - CFC Daily](https://medium.com/callforcode/call-for-code-spot-challenge-beirut-introduction-to-ibm-cloud-services-part-2-767fc322d11a) <br/>
-    - [How to build a demo for Cross Sell in Banking using IBM Cloud Pak for Data - IBM Data Science in Practice](https://medium.com/ibm-data-ai/how-to-build-a-demo-for-cross-sell-in-banking-using-ibm-cloud-pak-for-data-ca7ce857598b) <br/>
-    - [Building a COVID-19 Virtual Banking Assistant - IBM Data Science in Practice](https://medium.com/ibm-watson/building-a-covid-19-virtual-banking-assistant-cb4252dc1bcc) <br/>
-    - [Build an app using the Disaster Resiliency Starter Kit - CFC Daily](https://medium.com/callforcode/on-july-14th-2020-cloud-developer-advocate-mridul-bhandari-from-ibm-developer-and-senior-2a8d2f67c1de) <br/>
-    - [Why Open Source is Important for Students?](https://dev.to/mridulrb/series/11633) <br/>
-    <!-- - [How To Create An AR Treasure Hunt using A-Frame and AR.js - Towards AI](https://medium.com/towards-artificial-intelligence/ar-treasure-hunt-using-a-frame-and-ar-js-dcd07c33f771) -->
-    <!-- - [Tovit - a COVID-19 toolkit - IBM Watson](https://medium.com/ibm-watson/tovit-a-covid-19-toolkit-aed5c2fc68d1)
-    - [Tovit - Your go-to COVID-19 toolkit - CFC Daily](https://medium.com/callforcode/tovit-ae4554bfe92f) -->
+    <ul>
+      <li><a href="https://towardsdatascience.com/predict-loan-eligibility-using-machine-learning-models-7a14ef904057">Predict Loan Eligibility using Machine Learning Models - towards data science</a> <br/></li>
+      <li><a href="https://medium.com/ibm-data-ai/integrating-ibm-watson-assistant-with-whatsapp-e62dcaa803fd">Update your chatbot on WhatsApp with IBM Watson Assistant - IBM Developer</a> <br/></li>
+      <li><a href="https://medium.com/analytics-vidhya/neural-network-using-r-fbd9156a2ffa">How to Create A Neural Network Using R - Analytics Vidhya</a> <br/></li>
+      <li><a href="https://medium.com/callforcode/call-for-code-spot-challenge-beirut-introduction-to-ibm-cloud-services-part-2-767fc322d11a">Call for Code® Spot Challenge Beirut: Introduction to IBM Cloud Services - CFC Daily</a> <br/></li>
+      <li><a href="https://medium.com/ibm-data-ai/how-to-build-a-demo-for-cross-sell-in-banking-using-ibm-cloud-pak-for-data-ca7ce857598b">How to build a demo for Cross Sell in Banking using IBM Cloud Pak for Data - IBM Data Science in Practice</a> <br/></li>
+      <li><a href="https://medium.com/ibm-watson/building-a-covid-19-virtual-banking-assistant-cb4252dc1bcc">Building a COVID-19 Virtual Banking Assistant - IBM Data Science in Practice</a> <br/></li>
+      <li><a href="https://medium.com/callforcode/on-july-14th-2020-cloud-developer-advocate-mridul-bhandari-from-ibm-developer-and-senior-2a8d2f67c1de">Build an app using the Disaster Resiliency Starter Kit - CFC Daily</a> <br/></li>
+      <li><a href="https://dev.to/mridulrb/series/11633">Why Open Source is Important for Students? - IBM Developer</a> <br/></li>
+  </ul>
+
+<!-- - [How To Create An AR Treasure Hunt using A-Frame and AR.js - Towards AI](https://medium.com/towards-artificial-intelligence/ar-treasure-hunt-using-a-frame-and-ar-js-dcd07c33f771) -->
+<!-- - [Tovit - a COVID-19 toolkit - IBM Watson](https://medium.com/ibm-watson/tovit-a-covid-19-toolkit-aed5c2fc68d1) - [Tovit - Your go-to COVID-19 toolkit - CFC Daily](https://medium.com/callforcode/tovit-ae4554bfe92f) -->
 </details>
 
 ### Technologies & Tools 🔧
