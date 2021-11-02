@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 <h2 align="center"> <img src="https://raw.githubusercontent.com/mridulrb/mridulrb/master/media/signbot.gif"/> </h2>
 <p align="center">
 <a href=https://mridulbhandari.com target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg alt="mridulrb" height="20" width="20" /></a>
+<a href=https://linkedin.com/in/mridul-bhandari target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="mridul-bhandari" height="20" width="20" /></a>
 <a href=https://www.youtube.com/c/MridulBhandari target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg alt="mridulrb" height="20" width="20" /></a>
 <a href=https://www.twitch.tv/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg alt="mridulrb" height="20" width="20" /></a>
+<a href=https://twitter.com/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="mridulrb" height="20" width="20" /></a>
 <a href=https://www.kaggle.com/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg alt="mridulrb" height="20" width="20" /></a>
 <a href=https://forum.freecodecamp.org/u/mridulrb/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg alt="mridulrb" height="20" width="20" /></a>
 <a href=https://mridulrb.hashnode.dev/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg alt="mridulrb" height="20" width="20" /></a>
-<a href=https://twitter.com/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="mridulrb" height="20" width="20" /></a>
-<a href=https://linkedin.com/in/mridul-bhandari target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="mridul-bhandari" height="20" width="20" /></a>
-<a href=https://www.medium.com/@mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg alt="mridulrb" height="20" width="20" /></a>
+<a href=https://mridulrb.medium.com/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg alt="mridulrb" height="20" width="20" /></a>
 <a href=https://stackoverflow.com/story/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg alt="mridulrb" height="20" width="20" /></a>
 <a href=https://www.instagram.com/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="mridulrb" height="20" width="20" /></a>
 <a href=https://codepen.io/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg alt="mridulrb" height="20" width="20" /></a>
@@ -44,17 +44,15 @@ Here are some ideas to get you started:
 <a href="https://www.f6s.com/mridulrb?follow=1" target="_blank" title="Follow Mridul Bhandari on F6S"><img src="https://www.f6s.com/images/f6s-follow-green.png" border="0" align="center" width="78" height="22 " alt="Follow Mridul Bhandari on F6S" style="width: 78px; height: 22px; padding: 0px; margin: 0px;" /></a>  
 </p>
 
-
-
 ### Bio 👨🏻
-```
-I'm a Developer Advocate at 👁🐝M  
-I focus on Data Science, AI & Microservices 💻
+<pre><code>I'm a Developer Advocate at 👁🐝M  
+I focus on Data Science, AI &amp; Microservices 💻
 
-💻 | Work on Code Content
-📚 | Post Blogs on Medium, Hashnode & Hacker Noon
+💻 | Create Code Tutorials
+📹 | Stream on <a href="https://linkedin.com/in/mridul-bhandari">LinkedIn</a>, <a href="https://www.youtube.com/c/MridulBhandari">YouTube</a>, <a href="https://www.twitch.tv/mridulrb">Twitch</a> &amp; <a href="https://twitter.com/mridulrb">Twitter</a>
+📚 | Post Blogs on <a href="https://mridulrb.medium.com/">Medium</a> &amp; <a href="https://dev.to/mridulrb">Dev.to</a>
 💬 | Mail me at hello@mridulbhandari.com or Mridul.Bhandari@ibm.com if you need help
-```
+</code></pre>
 
 <!-- ### Blogs 📚 -->
 <details> 
@@ -62,6 +60,7 @@ I focus on Data Science, AI & Microservices 💻
     <ul>
       <li><a href="https://towardsdatascience.com/predict-loan-eligibility-using-machine-learning-models-7a14ef904057">Predict Loan Eligibility using Machine Learning Models - towards data science</a> <br/></li>
       <li><a href="https://medium.com/ibm-data-ai/integrating-ibm-watson-assistant-with-whatsapp-e62dcaa803fd">Update your chatbot on WhatsApp with IBM Watson Assistant - IBM Developer</a> <br/></li>
+      <li><a href="https://developer.ibm.com/es/tutorials/integrating-ibm-watson-assistant-with-whatsapp/">Integración de IBM Watson Assistant con WhatsApp - IBM Developer Spanish</a> <br/></li>
       <li><a href="https://medium.com/analytics-vidhya/neural-network-using-r-fbd9156a2ffa">How to Create A Neural Network Using R - Analytics Vidhya</a> <br/></li>
       <li><a href="https://medium.com/callforcode/call-for-code-spot-challenge-beirut-introduction-to-ibm-cloud-services-part-2-767fc322d11a">Call for Code® Spot Challenge Beirut: Introduction to IBM Cloud Services - CFC Daily</a> <br/></li>
       <li><a href="https://medium.com/ibm-data-ai/how-to-build-a-demo-for-cross-sell-in-banking-using-ibm-cloud-pak-for-data-ca7ce857598b">How to build a demo for Cross Sell in Banking using IBM Cloud Pak for Data - IBM Data Science in Practice</a> <br/></li>
@@ -93,9 +92,6 @@ I focus on Data Science, AI & Microservices 💻
 ![](https://img.shields.io/badge/Red_Hat_OpenShift-informational?style=flat-square&logo=red-hat-open-shift&logoColor=white&color=EE0000)
 ![](https://img.shields.io/badge/Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white&color=326CE5)
 ![](https://img.shields.io/badge/Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)
-
-
-
 
 ### Github Stats 📊
 <details> 
@@ -186,6 +182,3 @@ I focus on Data Science, AI & Microservices 💻
 <a href="https://github.com/mridulrb/Khibra">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mridulrb&repo=Khibra&show_owner=True&theme=synthwave" width="425px" height="150px" />
 </a>  -->
-
-
-
