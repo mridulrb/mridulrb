@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </p>
 
 ### Bio 👨🏻
-<pre><code>I'm a Developer Advocate at 👁🐝M  
+<pre><code>I'm a Developer Advocate at 👁🐝Ⓜ️ 
 I focus on Data Science, AI &amp; Microservices 💻
 
 💻 | Create Code Tutorials
