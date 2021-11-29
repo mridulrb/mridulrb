@@ -23,11 +23,13 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/mridulrb/mridulrb/master/media/logo.png" width="100px" height="100px" />
 </p>
 
-<h2 align="center"> <img src="https://raw.githubusercontent.com/mridulrb/mridulrb/master/media/signbot.gif"/> </h2>
+<p><h2 align="center"> <img src="https://raw.githubusercontent.com/mridulrb/mridulrb/master/media/signbot.gif"/> </h2></p>
 <p align="center">
 <a href=https://mridulbhandari.com target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg alt="mridulrb" height="20" width="20" /></a>
 <a href=https://linkedin.com/in/mridul-bhandari target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="mridul-bhandari" height="20" width="20" /></a>
 <a href=https://www.youtube.com/c/MridulBhandari target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg alt="mridulrb" height="20" width="20" /></a>
+<a href=https://github.com/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg alt="mridulrb" height="20" width="20" /></a>
+<a href=https://gitlab.com/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg alt="mridulrb" height="20" width="20" /></a> 
 <a href=https://www.twitch.tv/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg alt="mridulrb" height="20" width="20" /></a>
 <a href=https://twitter.com/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="mridulrb" height="20" width="20" /></a>
 <a href=https://www.kaggle.com/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg alt="mridulrb" height="20" width="20" /></a>
@@ -41,7 +43,7 @@ Here are some ideas to get you started:
 <a href=https://www.facebook.com/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="mridulrb" height="20" width="20" /></a>
 <a href=https://www.behance.net/mridulbhandari target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg alt="mridulrb" height="20" width="20" /></a>
 <a href=https://dribbble.com/mridulrb target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg alt="mridulrb" height="20" width="20" /></a>
-<a href="https://www.f6s.com/mridulrb?follow=1" target="_blank" title="Follow Mridul Bhandari on F6S"><img src="https://www.f6s.com/images/f6s-follow-green.png" border="0" align="center" width="78" height="22 " alt="Follow Mridul Bhandari on F6S" style="width: 78px; height: 22px; padding: 0px; margin: 0px;" /></a>  
+<a href="https://www.f6s.com/mridulrb?follow=1" target="_blank" title="Follow Mridul Bhandari on F6S"><img src="https://www.f6s.com/images/f6s-follow-green.png" border="0" align="center" width="78" height="22 " alt="Follow Mridul Bhandari on F6S" style="width: 78px; height: 22px; padding: 0px; margin: 0px;" /></a><br>
 </p>
 
 ### Bio 👨🏻
